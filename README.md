@@ -45,4 +45,30 @@ Looking at Lot 3 we see it has a sample mean of 1496.14 and a p-Value is 0.04, w
 <img src="Resources/Images/t-test-Lot-3.png" align="center">  
 
 
+
 ## Study Design: MechaCar vs Competition
+
+Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
+
+In my statistical study I would perform multiple linear regression analysis to identify which variables in the metrics provided below drive the needle in determining best in class.
+
+The ultimate goal is to determine if MechaCar will be the best in class. 
+
+I will examine the following independent variables
+
+* Safety Rating
+* Resale Value
+* Fuel Efficiency (MPG)
+* Owner Satisfaction Survey Scores
+* Technology Package Satisfaction Survey Scores
+
+I would use the sales price as the dependent variable.
+
+### Hypothesis: 
+
+Null Hypothesis: MechaCar is best in class based on its performance of key metrics
+
+Alternative Hypothesis: MechaCar is not best in class based on performance of key metrics
+
+A multiple linear regression would be used to determine which factors have the highest correlation with the selling price.
+
