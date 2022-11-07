@@ -28,14 +28,20 @@ In summary it meets the demand manufacturing when looking at all lots in total b
 ## T-Tests on Suspension Coils
 When looking at tge total we see the sample mean is 1498.78.  With a p-Value of 0.06, which is greater than the common significance level of 0.05,  This indicates that there is not enough evidence to support rejecting the null hypothesis.
 
+#### All Lots
 <img src="Resources/Images/t-test_All_Lots.png" align="center">  
 
 Looking at the indiviual lots we see that Lot 1 has a sample mean of 1500 with a p-Value of 1.  Meaning we cannot reject.  Lot 2 has a sample mean of 1500.02, and a p-Value of 0.61.  Meaning we cannot reject. 
 
 Looking at Lot 3 we see it has a sample mean of 1496.14 and a p-Value is 0.04, which is lower than the common significance level of 0.05 which leads us to reject the null hypothesis that the presumed population mean are not statistically different.
 
+#### Lot 1
 <img src="Resources/Images/t-test-Lot-1.png" align="center">  
+
+#### Lot 2
 <img src="Resources/Images/t-test-Lot-2.png" align="center">  
+
+#### Lot 3
 <img src="Resources/Images/t-test-Lot-3.png" align="center">  
 
 
